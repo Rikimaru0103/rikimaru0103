@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rabnail
+## 👋 Hi, I'm Rikimaru
 
 As a full-stack blockchain developer, I work in DEX and DeFi projects, meme and NFT projects, game projects in Solana and EVM chains, with good skills in smart contract and backend technology.
 
